@@ -1,0 +1,10 @@
+.footer{
+    background-color: rgb(158, 228, 89);
+    height: 20vmax;
+    width: 100%;
+    margin-top: 75vmax;
+}
+.copy{
+    font-size: 14px;
+    margin-left:39vmax;
+}

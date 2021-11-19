@@ -1,0 +1,29 @@
+.profileheadicon{
+    margin-top: 8vmax;
+    margin-left: 43vmax;
+}
+.identity{
+    color: chartreuse;
+}
+.identitydiv{
+    margin-left: 6vmax;
+    height: 30vh;
+}
+.identitydata{
+    padding: 0.3vmax;
+}
+.browsing{
+    height: 40vmax;
+}
+
+.hrbrbr{
+    width: 96%;
+    margin: auto;
+}
+.footerclose{
+    margin-bottom: -70vmax;
+}
+.yourbro{
+    margin-left: 2vmax;
+    margin-top: 1vmax;
+}

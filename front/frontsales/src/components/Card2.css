@@ -1,0 +1,49 @@
+.dailydeals{
+    height: 920vh;
+    width: 38%;
+    border: 1px solid black;
+    margin-left: 2vmax;
+}
+.producticon22{
+    margin-left: 13vmax;
+}
+.weeklydeals{
+    height: 920vh;
+    width: 38%;
+    border: 1px solid black;
+}
+.dealsmid{
+    display: flex;
+    flex-direction: row;
+    margin-top: 4vmax;
+    margin-left: 1vmax;
+}
+.category{
+    border: 1px solid black;
+    width: 100%;
+    margin-top: -6.95vmax;
+    height: 40vmax;
+}
+.dailyweek{
+    margin-left: 10vmax;
+    margin-top: 1vmax;
+    margin-bottom: 4vmax;
+}
+.productcolor1{
+    color: rgb(241, 142, 158);
+}
+.dealscol{
+    display: flex;
+    flex-direction: row;
+    margin-top: 5vmax;
+}
+.carddeal{
+    height: 45vh;
+    width:30vw;
+    margin-left: 3.5vmax;
+    border: 1px solid black;
+}
+.relateddeals{
+    margin-bottom: -73vmax;
+    margin-top: 9vmax;
+}
